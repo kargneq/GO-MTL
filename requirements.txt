@@ -1,4 +1,3 @@
-# Add your pip dependencies here
 numpy
 scipy
 matplotlib

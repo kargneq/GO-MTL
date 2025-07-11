@@ -1,5 +1,5 @@
-# go_mtl
+# go-mtl
 
-Pure-NumPy/SciPy implementation of Group-guided Multi-Task Learning (Go-MTL).
+**Go-MTL** is a pure-NumPy/SciPy implementation of Group-guided Multi-Task Learning.
 
-See docs/ for full documentation.
+See docs/ for full API and examples.

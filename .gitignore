@@ -2,5 +2,3 @@ venv/
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
-# ignore local conda environment directory
-go_mtl_env/
