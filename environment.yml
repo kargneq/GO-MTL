@@ -1,0 +1,6 @@
+name: go_mtl
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - matplotlib
